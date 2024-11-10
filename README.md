@@ -10,6 +10,7 @@ Query Engine: Search for relevant documents based on a user query and generate i
 Chatbot Interface: A Streamlit-based interface for users to query the system and receive insights from relevant documents.
 Project Structure
 graphql
+
 Copy code
 ├── data/                    # Directory for storing PDF documents
 ├── document_processing.py    # Script for extracting text from PDF files
